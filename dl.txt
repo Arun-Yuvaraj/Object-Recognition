@@ -1,3 +1,6 @@
 git clone https://github.com/chentinghao/download_google_drive.git
 cd download_google_drive/
 python download_gdrive.py FILE_ID DESTINATION_PATH
+
+file id = 1b-gzRZrtV-8Z4FaEuclwn0v3zlxZSq9y for rpc
+1jvHL7BmjrBnF-j2GoUPSDIKlHVx-9yCh for wight
